@@ -1,0 +1,12 @@
+# MUOD Configuration Example
+# Place this file at $XDG_CONFIG_HOME/muod/muod.yaml (typically ~/.config/muod/muod.yaml)
+# or specify a custom path with -f/--config flag
+
+# Default timeout for ping requests (supports time units: s, ms)
+default_timeout: 5s
+
+# Whether to show timestamps by default
+show_timestamps: true
+
+# Default number of ping rounds (-1 for infinite)
+default_count: -1 

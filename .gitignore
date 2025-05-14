@@ -1,0 +1,23 @@
+# Binary files
+
+# Build output directory
+dist/
+
+# OS-specific files
+.DS_Store
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE directories
+.idea/
+.vscode/
+
+# OS-specific files
+Thumbs.db 
